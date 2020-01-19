@@ -1,6 +1,6 @@
 {
   "name": "is-number-even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny, modular JavaScript library to check whether the given number is even.",
   "main": "./src/index.js",
   "scripts": {
