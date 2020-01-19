@@ -1,0 +1,24 @@
+{
+  "name": "is-number-even",
+  "version": "1.0.0",
+  "description": "A tiny, modular JavaScript library to check whether the given number is even.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eustaquio-de-alba/is-number-even.git"
+  },
+  "keywords": [
+    "tiny",
+    "modular",
+    "javascript",
+    "library",
+    "even",
+    "is-even",
+    "async"
+  ],
+  "author": "Eustaquio De Alba",
+  "license": "MIT"
+}
